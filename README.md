@@ -35,8 +35,7 @@ Feel free to explore my repositories for more!
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin)](Your LinkedIn Profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?logo=twitter)](Your Twitter Profile)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin)]([Your LinkedIn Profile](https://www.linkedin.com/in/keyurkan/))
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?logo=gmail)](mailto:kankeyur@gmail.com)
 
 Let's connect and collaborate on exciting projects! 😄
